@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/clickycrispp.github.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/clickycrispp.github.io/static/js/main.4b20aa5a.chunk.js",
+    "main.js.map": "/clickycrispp.github.io/static/js/main.4b20aa5a.chunk.js.map",
+    "runtime-main.js": "/clickycrispp.github.io/static/js/runtime-main.830fc615.js",
+    "runtime-main.js.map": "/clickycrispp.github.io/static/js/runtime-main.830fc615.js.map",
+    "static/js/2.fcfd7051.chunk.js": "/clickycrispp.github.io/static/js/2.fcfd7051.chunk.js",
+    "static/js/2.fcfd7051.chunk.js.map": "/clickycrispp.github.io/static/js/2.fcfd7051.chunk.js.map",
+    "static/js/3.f3d9165c.chunk.js": "/clickycrispp.github.io/static/js/3.f3d9165c.chunk.js",
+    "static/js/3.f3d9165c.chunk.js.map": "/clickycrispp.github.io/static/js/3.f3d9165c.chunk.js.map",
+    "index.html": "/clickycrispp.github.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/clickycrispp.github.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.fcfd7051.chunk.js.LICENSE.txt": "/clickycrispp.github.io/static/js/2.fcfd7051.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/clickycrispp.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.830fc615.js",
+    "static/js/2.fcfd7051.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.4b20aa5a.chunk.js"
+  ]
+}
